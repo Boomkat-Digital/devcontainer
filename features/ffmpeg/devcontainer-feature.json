@@ -1,0 +1,6 @@
+{
+  "id": "ffmpeg",
+  "version": "1.0.0",
+  "name": "FFmpeg",
+  "description": "Installs needed dependencies for Rails apps using FFmpeg"
+}
