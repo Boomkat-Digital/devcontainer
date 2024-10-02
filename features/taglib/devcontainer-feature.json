@@ -1,0 +1,6 @@
+{
+  "id": "taglib",
+  "version": "1.0.0",
+  "name": "TagLib",
+  "description": "Installs needed dependencies for Rails apps using TagLib"
+}
